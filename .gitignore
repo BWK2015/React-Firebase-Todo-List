@@ -1,0 +1,5 @@
+node_modules/
+
+src/root.js
+
+npm-debug.log
